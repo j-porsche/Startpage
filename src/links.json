@@ -2,6 +2,17 @@
   "$schema": "./links.schema.json",
   "items": [
     {
+      "name": "Test",
+      "items": [
+        {
+          "title": "Test",
+          "url": "https://google.com",
+          "icon": "google",
+          "color": "#181717"
+        }
+      ]
+    },
+    {
       "name": "Managing projects",
       "items": [
         {
