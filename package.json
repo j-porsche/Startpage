@@ -1,6 +1,6 @@
 {
   "name": "webdevhome.github.io-vite",
-  "version": "2.0.11.1",
+  "version": "2.0.1-1.1",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -48,5 +48,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![Build and deploy website](https://github.com/webdevhome/webdevhome.github.io/workflows/Build%20and%20deploy%20website/badge.svg)",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-porsche/j-porsche.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-porsche/j-porsche.github.io/issues"
+  },
+  "homepage": "https://github.com/j-porsche/j-porsche.github.io#readme"
 }
